@@ -1,0 +1,15 @@
+.App {
+    @apply bg-green-900 h-[100vh] w-[100vw] flex justify-center items-center text-black flex-col text-3xl
+}
+
+.mornia {
+    @apply text-white text-7xl animate-bounce font-serif
+}
+
+.boy {
+    @apply p-7  font-serif
+}
+
+.kit {
+    @apply bg-orange-600 w-28 h-36 rounded hover:animate-spin
+}
